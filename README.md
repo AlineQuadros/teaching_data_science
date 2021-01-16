@@ -4,9 +4,7 @@
 
 Data Science with Python - exercises and tutorials about statistics, data handling and transformation, modelling, and machine learning models.
 
-## Statistics
-
-In this folder you'll find the 
+## Intro to Statistics
 
 We'll use some very helpful tools from packages `scypy` and `statsmodels`, which are really great and super comprehensive for
 statistics with Python.
