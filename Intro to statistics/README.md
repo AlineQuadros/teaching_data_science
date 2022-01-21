@@ -1,3 +1,3 @@
 ## Statistics for data scientists
 
-Guided and illustrated exercises to help understand the main statistical concepts
+![alt text](images/map_large.png)
